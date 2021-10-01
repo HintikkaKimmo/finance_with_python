@@ -8,7 +8,7 @@ cachetools==2.0.0
 cffi==1.9.1
 click==6.7
 contextlib2==0.5.4
-cryptography==1.7.2
+cryptography==3.2
 cycler==0.10.0
 cyordereddict==1.0.0
 Cython==0.25.2
