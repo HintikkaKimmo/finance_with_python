@@ -30,7 +30,7 @@ mockextras==1.0.2
 more-itertools==2.5.0
 multipledispatch==0.4.9
 ndg-httpsclient==0.4.2
-networkx==1.11
+networkx==2.6
 numexpr==2.6.2
 numpy==1.12.0
 packaging==16.8
@@ -44,15 +44,15 @@ ptyprocess==0.5.1
 pyasn1==0.2.2
 pycparser==2.17
 pyfolio==0.7.0
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.4.0
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.1.10
 python-dateutil==2.6.0
 python-editor==1.0.3
 pytz==2016.10
 Quandl==3.0.1
-requests==2.13.0
+requests==2.20
 requests-file==1.4.1
 requests-ftp==0.3.1
 scikit-learn==0.18.1
@@ -62,7 +62,7 @@ simplegeneric==0.8.1
 six==1.10.0
 sklearn==0.0
 sortedcontainers==1.5.7
-SQLAlchemy==1.1.5
+SQLAlchemy==1.2.18
 statsmodels==0.6.1
 toolz==0.8.2
 traitlets==4.3.1
