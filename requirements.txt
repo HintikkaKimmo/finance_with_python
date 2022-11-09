@@ -62,7 +62,7 @@ simplegeneric==0.8.1
 six==1.10.0
 sklearn==0.0
 sortedcontainers==1.5.7
-SQLAlchemy==1.1.5
+SQLAlchemy==1.2.18
 statsmodels==0.6.1
 toolz==0.8.2
 traitlets==4.3.1
