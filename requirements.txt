@@ -52,7 +52,7 @@ python-dateutil==2.6.0
 python-editor==1.0.3
 pytz==2016.10
 Quandl==3.0.1
-requests==2.13.0
+requests==2.31.0
 requests-file==1.4.1
 requests-ftp==0.3.1
 scikit-learn==0.18.1
