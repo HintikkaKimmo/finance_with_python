@@ -23,7 +23,7 @@ ipython==7.16.3
 ipython-genutils==0.1.0
 Logbook==1.0.0
 lz4==0.8.2
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==0.23
 matplotlib==2.0.0
 mockextras==1.0.2
