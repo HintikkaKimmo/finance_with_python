@@ -46,13 +46,13 @@ pycparser==2.17
 pyfolio==0.7.0
 Pygments==2.7.4
 pymongo==3.4.0
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.1.10
 python-dateutil==2.6.0
 python-editor==1.0.3
 pytz==2016.10
 Quandl==3.0.1
-requests==2.13.0
+requests==2.20
 requests-file==1.4.1
 requests-ftp==0.3.1
 scikit-learn==0.18.1
